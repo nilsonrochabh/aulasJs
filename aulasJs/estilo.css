@@ -1,0 +1,30 @@
+
+body{
+	background-color: #819270;
+}
+img{
+	width: 250px;
+}
+fieldset{
+	width: 200px;
+}
+input,label{
+	width: 80px;
+	font-size: 25px;
+	font-family: verdana;
+	color: red;
+}
+#primeiroNome{
+	color: blue;
+}
+.peso{
+	color: white;
+}
+p {
+    width: 30%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
