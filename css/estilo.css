@@ -1,0 +1,105 @@
+body{
+	background-color: #819270 !important;
+}
+img{
+	width: 250px;
+}
+fieldset{
+	width: 200px;
+}
+input,label{
+	width: 80px;
+	font-size: 25px;
+	font-family: verdana;
+	color: red;
+}
+#primeiroNome{
+	color: blue;
+}
+.peso{
+	color: white;
+}
+p {
+    width: 100%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+   }
+
+
+
+
+#amarelo{
+	background-color: blue;
+	
+}
+
+#vermelho{
+	background-color: green;
+	
+}
+#azul{
+	background-color: yellow;
+	
+}
+#preto{
+	background-color: black;
+	
+}
+#azul,#amarelo,#vermelho,#preto{
+	width: 150px;
+	height: 150px;
+	margin: 3px 3px 3px 3px;
+	border-radius: 50%;
+	display: inline-block;
+	border-color: green;
+	border:solid 4px;
+}
+.valor{
+	width: 150px;
+	height: 150px;
+	margin: 3px 3px 3px 3px;
+	border-radius: 50%;
+	display: inline-block;
+	border-color: green;
+	border:solid 4px;
+
+}
+input, h2{
+	
+    margin-left: 37px;
+    margin-top: 54px;
+
+}
+h2{
+	font-size: 40px;
+}
+button{
+	margin-left: 146px;
+}
+h1,h2{
+	text-align: center;
+	color: lightgreen !important;
+}
+#desafio{
+	margin-left: 300px;
+}
+img{
+	margin-left:  20px;
+}
+
+
+/*a{
+	text-decoration: none;
+	font-size: 30px;
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	margin: 3px 3px 3px 3px;
+	background-color: green;
+	display: inline-block;
+	border-color: green;
+	border:solid 4px;
+}
+*/
